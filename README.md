@@ -4,7 +4,7 @@ DDOS
     chmod +x * -R
     ./install_Centos
     
-## INSTALL Centos   
+## INSTALL Ubuntu   
     chmod +x * -R
     ./install_ubuntu
 
